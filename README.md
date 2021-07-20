@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ASkrzypek
-- 👀 I’m interested in genetics, molecular biology and bioinformatic.
+- 👀 I’m interested in genetics, molecular biology and bioinformatics.
 - 🌱 I’m currently learning data analysis in Python.
 - 💞️ I’m looking to collaborate on Python projects.
 - 📫 aleksandra.skrzypek.work@gmail.com
